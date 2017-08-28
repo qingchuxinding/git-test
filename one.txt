@@ -7,4 +7,9 @@ creating a new branch is quick & simple.
 creating a new branch is quick AND simple.
 >>>>>>> feature1
 
+<<<<<<< HEAD
 test222
+=======
+
+test 111
+>>>>>>> m1
